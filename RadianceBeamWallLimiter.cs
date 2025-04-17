@@ -7,10 +7,10 @@ using HutongGames.PlayMaker.Actions;
 using System.Linq;
 
 namespace BeamWallLimiter {
-    public class RadianceBeamWallLimiter : Mod {
-        public static RadianceBeamWallLimiter instance;
+    public class AbsRadBeamWallLimiter : Mod {
+        public static AbsRadBeamWallLimiter instance;
 
-        public RadianceBeamWallLimiter() : base("Radiance Beam Wall Limiter") { 
+        public AbsRadBeamWallLimiter() : base("Abs Rad Beam Wall Limiter") { 
             instance = this;
         }
 

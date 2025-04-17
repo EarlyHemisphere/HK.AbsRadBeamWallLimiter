@@ -8,11 +8,11 @@
     <!--<DocumentationFile>$(OutputPath)/$(AssemblyTitle).xml</DocumentationFile>-->
   </PropertyGroup>
   <PropertyGroup>
-    <RootNamespace>RadianceBeamWallLimiter</RootNamespace>
-    <AssemblyName>RadianceBeamWallLimiter</AssemblyName>
+    <RootNamespace>AbsRadBeamWallLimiter</RootNamespace>
+    <AssemblyName>AbsRadBeamWallLimiter</AssemblyName>
     <TargetFramework>net472</TargetFramework>
-    <AssemblyTitle>RadianceBeamWallLimiter</AssemblyTitle>
-    <Product>RadianceBeamWallLimiter</Product>
+    <AssemblyTitle>AbsRadBeamWallLimiter</AssemblyTitle>
+    <Product>AbsRadBeamWallLimiter</Product>
     <Description>A Hollow Knight Mod</Description>
     <Copyright>Copyright © 2025</Copyright>
     <AssemblyVersion>1.0.0</AssemblyVersion>
